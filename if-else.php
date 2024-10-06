@@ -15,6 +15,7 @@
             echo 'gagal';
         }
 
+        
         // lebih satu syarat
         $uang = 1000;
         $laptop = 2000;
