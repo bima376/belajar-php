@@ -12,6 +12,7 @@
         $angka3 = 3.5;
         $angka4 = 4;
 
+        
         echo "angka bulat=". round($angka3) . "<br>"; //angka bulat 3.5 jadi 4
         echo "angka random=". rand(5, 10) . "<br>"; //angka random 5-10
         echo "angka besar=". max(5, 10) . "<br>"; //angka terbesar atauu max dari angka-angka
